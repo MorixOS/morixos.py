@@ -2,6 +2,7 @@
 A Python Console Operating System Simulation
 
 MorixOS is a Windows-style operating system simulation written in Python.
+
 It runs entirely in the terminal and provides a simple login system, built-in apps, and the ability to launch real Windows programs via file paths.
 
 This project is for learning and fun purposes only. It is not a real operating system.
@@ -43,11 +44,17 @@ On the next launch, you must log in with your password
 
 # Available Commands
 morix/help	Show all commands
+
 morix/off	Shut down MorixOS
+
 morix/calculator	Open calculator
+
 morix/timer	Start a timer
+
 morix/games	Open game launcher
+
 morix/bank	Open bank app
+
 morix/browser	Launch browser
 
 # Adding Games
