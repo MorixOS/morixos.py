@@ -41,14 +41,6 @@ os_data.txt
 
 On the next launch, you must log in with your password
 
-# Project Structure
-MorixOS/
-│
-├── morixos.py        # Main system file
-├── os_data.txt       # User login data
-├── bank_data.txt     # Bank app data
-└── README.md
-
 # Available Commands
 morix/help	Show all commands
 morix/off	Shut down MorixOS
